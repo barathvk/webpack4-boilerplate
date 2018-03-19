@@ -78,6 +78,10 @@
     lodash "^4.2.0"
     to-fast-properties "^2.0.0"
 
+"@nx-js/observer-util@^4.1.1":
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/@nx-js/observer-util/-/observer-util-4.1.2.tgz#0f977196614b990758ab7f3c63f41e0010577da0"
+
 "@sindresorhus/is@^0.7.0":
   version "0.7.0"
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.7.0.tgz#9a06f4f137ee84d7df0460c1fdb1135ffa6c50fd"
@@ -4011,6 +4015,10 @@ jsx-ast-utils@^2.0.1:
   dependencies:
     array-includes "^3.0.3"
 
+keycloak-js@^3.4.3:
+  version "3.4.3"
+  resolved "https://registry.yarnpkg.com/keycloak-js/-/keycloak-js-3.4.3.tgz#9fbb1ba7b2433229f5cc8babbd308ff0e945dac7"
+
 keyv@3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/keyv/-/keyv-3.0.0.tgz#44923ba39e68b12a7cec7df6c3268c031f2ef373"
@@ -5612,6 +5620,12 @@ react-dom@^16.2.0:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
     prop-types "^15.6.0"
+
+react-easy-state@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/react-easy-state/-/react-easy-state-5.0.0.tgz#1f114a4695779d561cdb533a86b8fe361e0a20f0"
+  dependencies:
+    "@nx-js/observer-util" "^4.1.1"
 
 react-hot-loader@^4.0.0:
   version "4.0.0"
